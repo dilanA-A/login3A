@@ -1,0 +1,29 @@
+﻿   <%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.Master.cs" Inherits="login_3eroB.SiteMaster" %>
+
+   <!DOCTYPE html>
+   <html lang="es">
+   <head runat="server">
+       <meta charset="utf-8" />
+       <title></title>
+       <link href="Content/Site.css" rel="stylesheet" />
+       <asp:ContentPlaceHolder ID="head" runat="server"></asp:ContentPlaceHolder>
+   </head>
+   <body>
+       <form id="form1" runat="server">
+           <div>
+               <header>
+                   <h1>Mi Aplicación</h1>
+                   <nav>
+                       <ul>
+                           <li><a href="Dashboard.aspx">Dashboard</a></li>
+                           <li><a href="Login.aspx">Login</a></li>
+                           <li><a href="Registrar.aspx">Registrar</a></li>
+                       </ul>
+                   </nav>
+               </header>
+               <asp:ContentPlaceHolder ID="MainContent" runat="server"></asp:ContentPlaceHolder>
+           </div>
+       </form>
+   </body>
+   </html>
+   

@@ -1,0 +1,9 @@
+C:\Users\dilan\Desktop\Progra WEB\login_3eroB\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\dilan\Desktop\Progra WEB\login_3eroB\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\dilan\Desktop\Progra WEB\login_3eroB\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\dilan\Desktop\Progra WEB\login_3eroB\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\dilan\Desktop\Progra WEB\login_3eroB\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\dilan\Desktop\Progra WEB\login_3eroB\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\dilan\Desktop\Progra WEB\login_3eroB\Capa_Negocio\obj\Debug\Capa_Neg.64FC8661.Up2Date
+C:\Users\dilan\Desktop\Progra WEB\login_3eroB\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\dilan\Desktop\Progra WEB\login_3eroB\Capa_Negocio\obj\Debug\Capa_Negocio.pdb

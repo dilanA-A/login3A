@@ -1,0 +1,6 @@
+C:\Users\dilan\Desktop\Progra WEB\login_3eroB\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\dilan\Desktop\Progra WEB\login_3eroB\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\dilan\Desktop\Progra WEB\login_3eroB\Capa_Datos\obj\Debug\Capa_Datos.csproj.AssemblyReference.cache
+C:\Users\dilan\Desktop\Progra WEB\login_3eroB\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\dilan\Desktop\Progra WEB\login_3eroB\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\dilan\Desktop\Progra WEB\login_3eroB\Capa_Datos\obj\Debug\Capa_Datos.pdb
